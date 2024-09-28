@@ -1,5 +1,4 @@
 # Sentiment Analysis Model
-<br>
 Built a small project to analyse Sentiment on the IMBD Movies Dataset that has about more than 50000 Movies reviews, which will help identify wheteher a review left by the user is a Positive or a Negative review.
 <br>
 <br>
